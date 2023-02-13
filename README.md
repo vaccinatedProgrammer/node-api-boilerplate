@@ -42,3 +42,7 @@ First, **ensure you're running node version 14**, you may use a tool like [nvm](
 Once you're happy that you're running on the expected node version, you can **install the packages** by running the following command.
 
 Run: `npm i`
+
+#### TODO
+
+- Mongo Seeding
